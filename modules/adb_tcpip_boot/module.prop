@@ -1,0 +1,7 @@
+id=adb_tcpip_boot
+name=ADB over TCP at Boot
+version=v1.0.0
+versionCode=1
+author=NightMean
+description=Starts authenticated ADB over TCP at boot for Tailscale without Wi-Fi.
+updateJson=https://raw.githubusercontent.com/NightMean/Android-ADB-over-TCP-at-Boot/main/update.json
